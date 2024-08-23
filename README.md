@@ -3,6 +3,8 @@
 ## Project Overview
 This project aims to perform sentiment analysis on Twitter data using Natural Language Processing (NLP) and Machine Learning techniques. The goal is to classify tweets as either positive or negative based on their content.
 
+https://www.google.com/imgres?q=twitter%20sentiment%20analysis%20using%20ml&imgurl=https%3A%2F%2Fwww.aimtechnologies.co%2Fwp-content%2Fuploads%2F2024%2F01%2FTwitter-Sentiment-Analysis.png&imgrefurl=https%3A%2F%2Fwww.aimtechnologies.co%2F2024%2F01%2F09%2Ftwitter-sentiment-analysis-decoding-the-social-media-pulse%2F&docid=vlzwIVHIGtoEbM&tbnid=EbSpekFpY3yb2M&vet=12ahUKEwjNzZiAy4qIAxUvTGwGHUW0Ai4QM3oECHwQAA..i&w=1040&h=508&hcb=2&ved=2ahUKEwjNzZiAy4qIAxUvTGwGHUW0Ai4QM3oECHwQAA
+
 ## Dataset
 The dataset used for this project is **Sentiment140**, obtained from Kaggle. It contains 1.6 million textual data points with the following columns:
 - `target`: The sentiment of the tweet (0 = negative, 4 = positive)
