@@ -37,3 +37,5 @@ The following preprocessing steps were applied to the dataset:
 ## Conclusion
 - This project demonstrates the application of NLP and Machine Learning for sentiment analysis on Twitter data. The trained 
   model can be used to analyze and classify tweets based on their sentiment.
+- This usecase can be done in better way using lemmatizer , word2vec , avgword2vec , wordembeddings , and model can be developed using ensemble methods like xgboost..and use 
+  deep learning techniques as well. I will improve this usecase further using those technique and welcoming everyone to do the same.
